@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_text_section_text_sections",
+  "info": {
+    "displayName": "Text Section",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}
